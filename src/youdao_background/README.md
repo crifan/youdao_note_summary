@@ -27,3 +27,8 @@
 [帮助中心](http://noteyoudao.udesk.cn/hc) - > [有道云协作-帮助中心](http://noteyoudao.udesk.cn/hc/categories/2261)
 
 但是不够亲民，还是决定写个从**注册**到**基本使用**的教程，方便大家参考。
+
+## 有道官网关于产品功能的介绍
+不过后来看到个有道官网对其产品功能的简介，值得不了解有道的去看看：
+
+[有道云协作产品介绍](https://note.youdao.com/share/?token=ED1A3B41E9ED460CB5B11B47840D7076&gid=51708775&simple=true#/)
