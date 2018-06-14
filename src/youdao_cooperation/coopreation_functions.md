@@ -26,7 +26,7 @@
     * 且支持实时显示单个文件和整体的上传进度
     * 注意：Chrome才支持拖放，Mac的Safari不支持
 
-> **[warning] 要客户端或Chrome浏览器才能支持拖放**
+> #### warning::要客户端或Chrome浏览器才能支持拖放
 > * 独立客户端版本
 >   * Windows的桌面版、Mac的桌面版，完美支持拖放。
 > * Web网页版
@@ -70,6 +70,5 @@
 
 ![云协作文件夹设置可见性](../assets/img/cooperation_folder_visible_config.png)
 
-> ** [warning] 创建者和所有管理员默认都可见 **
->
+> #### warning::创建者和所有管理员默认都可见
 > 除了加入的特定的人能看到外，**创建者**和**所有管理员**都是**默认**能看到的

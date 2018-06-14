@@ -1,0 +1,19 @@
+{
+  "title": "有道云笔记和云协作使用总结",
+  "description": "总结之前使用过有道云笔记和有道云协作的心得供参考",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "youdao_note_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/youdao_note_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/youdao_note_summary/pdf/youdao_note_summary.pdf"
+    }
+  }
+}
