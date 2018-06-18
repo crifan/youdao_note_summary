@@ -50,7 +50,9 @@ http://163.fm/Zj4O7KqN
 
 ![申请加入有道群组](../assets/img/apply_join_group.png)
 
-然后填写信息，然后**发送**去提交申请即可。
+然后填写信息，然后**发送**去提交申请即可：
+
+![申请已发送请等待](../assets/img/apply_sent_please_wait.png)
 
 ### 群主去审批通过申请
 
@@ -58,9 +60,13 @@ http://163.fm/Zj4O7KqN
 
 ![申请入群的通知红色角标](../assets/img/notice_for_apply_join_group.png)
 
-点击红点打开通知，点击 通过验证 即可
+点击红点打开通知，点击`通过验证`：
 
-> **[info] 如果不是组织成员则加入群之前要先加入组织**
+![点击通过验证同意加入](../assets/img/click_pass_verify_to_accept.png)
+
+即可。
+
+> #### info::如果不是组织成员则加入群之前要先加入组织
 >
 > 你会注意到：
 > 
@@ -82,6 +88,10 @@ http://163.fm/Zj4O7KqN
 
 ![云协作已同意申请](../assets/img/youdao_has_approved_application.png)
 
+同意加入后，左边栏即可看到动态：
 
+![动态中显示已加入](../assets/img/activity_show_has_join_in.png)
 
+加入的人还会收到对应的邮件通知：
 
+![收到已加入的邮件通知](../assets/img/mail_notice_has_join_in_group.png)

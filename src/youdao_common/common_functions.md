@@ -27,7 +27,7 @@
 
 ![云笔记支持截图和插入图谱](../assets/img/youdao_note_screenshot_insert_img.png)
 
-> **[warning] Web版中Mac的Safari不支持插入图片**
+> #### warning::Web版中Mac的Safari不支持插入图片
 >
 > Web版中，对于上传文件来说，Mac中Chrome浏览器才支持，而Safari中不支持上传图片
 
